@@ -1,2 +1,2 @@
 # bioinf_scripts
-small scripts related to bioinformatics
+Small scripts related to structural bioinformatics
